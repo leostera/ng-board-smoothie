@@ -1,0 +1,11 @@
+{
+  "name": "ng-board-smoothie",
+  "version": "0.0.0",
+  "author": "Leandro Ostera <sayhi@leostera.com>",
+  "main": "widget.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
