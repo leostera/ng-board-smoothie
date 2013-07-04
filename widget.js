@@ -1,6 +1,6 @@
 var widgets = angular.module('-.widgets');
 
-widgets.directive('dashSmoothie',
+widgets.directive('wSmoothie',
   ['$io', '$timeout'
   , function ($io, $timeout){
     var dirObj = {
